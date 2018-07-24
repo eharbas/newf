@@ -1,0 +1,146 @@
+.mojaklas:hover {
+    background-color: red;
+}
+
+.myklas {
+    background: #f5f5f5;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    bottom: 0;
+    clear: both;
+    float: right;
+    font-size: 15px;
+    position: absolute;
+    right: 355px;
+    /*dddddd*/
+    height: 50px;
+    line-height: 1.5625;
+    text-shadow: #717171 px px;
+    line-height: 1.5625;
+    -webkit-border-top-left-radius: 5px;
+    margin-left: 40px;
+    color: #717171;
+    font-family: "Helvetica Neue", Arial, Helvetica, sans-serif;
+}
+
+.myklas ::selection {
+    background-color: #34678a;
+    color: #fff;
+}
+
+.navbar {
+    margin: 0px;
+    height: 85px;
+}
+
+.navbar-default {
+    background-color: #fff;
+    border-color: #fff;
+}
+
+.brand-name {
+    font-family: 'Josefin Slab', serif;
+    font-size: 0px;
+    font-weight: bold;
+    color: #444;
+    text-decoration: none;
+}
+
+.nav-container {
+    padding-top: 8px;
+}
+
+.navbar-custom {
+    font-size: 0px;
+    background-color: #FFF;
+}
+
+.img-responsi2ve {
+    /* background:red;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    bottom: 0;
+    clear: both;
+    color:red;
+    float: right;
+    font-size: 14px;
+    position: absolute;    left: 255px; ddddd
+
+    text-shadow: yellow 1px 1px;
+    line-height: 1.5625;
+-webkit-border-top-left-radius: 5px;
+margin-left: 35px;*/
+     display: block;
+    float: left;
+    height: 80px;
+    overflow: hidden;
+    padding: 0;
+    text-indent: -9999px;
+    width: 250px;
+    max-width: 100%;
+margin-left: 189px;
+}
+.nesto{
+    text-align: center;
+    margin: 15px 0 0 0;
+    background-color: rgb(243, 108, 37);
+}
+.navbar-light .navbar-nav .nav-link {
+    color: #717171;
+}
+
+.navbar-light .navbar-nav .nav-link.show,
+.navbar-light .navbar-nav .nav-link.active {
+    color: white;
+}
+
+.nav-tabs .nav-link.active {
+    color: #495057;
+    background-color: red;
+}
+
+.jumbklasa {
+    height: 430px;
+    background-color: #34678a;
+}
+
+.foterklasa {
+    background-color: white;
+    border-top: 3px solid #dbdbdb;
+    clear: both;
+    font-size: 12px;
+    width: 100%;
+    overflow: hidden;
+    height: 100px;
+    text-transform: uppercase;
+    margin-top: 20px;
+    bottom: 0;
+}
+
+.textwidget {
+    float: left;
+    margin-left: 150px;
+    padding-top: 23px;
+}
+
+.slika {
+    float: left;
+    margin-right: 15px;
+    height: 50px;
+    width: 50px;
+}
+
+.p {
+    padding: 0px 15px 0px 15px
+}
+
+body {
+    background-color: #F0EBEB;
+}
+
+.bgblue {
+    position: absolute;
+    height: 70%;
+    background-color: rgb(54, 104, 139);
+    width: 100%;
+}
